@@ -114,7 +114,7 @@ minas:
         Name: '&6Minion &aInicial'
         type: SKULL_ITEM
       SkullMeta:
-        ID: f294da6c-11ad0-453zzf-bb77-8c5ad4a9639d
+        ID: f294da6c-11ad0-4z3zzf-bb77-8c5ad4a9639d
         Value: eyJ0ZXh0dXJlcyKSZI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ1ZjQ3ZmViNGQ3NWNiMzMzOTE0YmZkYjk5OWE0ODljOWQwZTMyMGQ1NDhmMzEwNDE5YWQ3MzhkMWUyNGI5In19fQ==
         LORE: 
         - '&7◆ &eEspecialidade do Minion'
